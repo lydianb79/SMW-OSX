@@ -1,0 +1,14 @@
+# build output
+build/
+*.o
+
+# ROMs and saves are never committed (copyrighted / personal)
+*.smc
+*.sfc
+*.swc
+*.fig
+*.srm
+*.state
+*.smwstate
+
+.DS_Store
